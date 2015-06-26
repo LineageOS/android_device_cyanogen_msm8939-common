@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bff0334d_340d8837",
+        "filename": "rootdir/etc/init.qcom.power.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-06-26T04:35:59Z",
+      "side": 1,
+      "message": "These values were tweaked.",
+      "revId": "4ad0859529950eec93955017d513f782622f1760",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bff0334d_14128459",
+        "filename": "rootdir/etc/init.qcom.power.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 65,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-06-26T04:35:59Z",
+      "side": 1,
+      "message": "Added these from QC, performance impact remains to be seen.",
+      "revId": "4ad0859529950eec93955017d513f782622f1760",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}

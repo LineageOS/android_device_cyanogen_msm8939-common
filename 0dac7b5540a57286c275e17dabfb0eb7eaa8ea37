@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bff0334d_54080c27",
+        "filename": "rootdir/etc/init.qcom.power.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-06-26T04:35:59Z",
+      "side": 0,
+      "message": "All this defaults to Y now.",
+      "revId": "0dac7b5540a57286c275e17dabfb0eb7eaa8ea37",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
