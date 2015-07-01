@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7ffa3b31_9e50fdd6",
+        "filename": "msm8939.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 78,
+      "author": {
+        "id": 11501
+      },
+      "writtenOn": "2015-07-01T22:18:36Z",
+      "side": 1,
+      "message": "Does this also work with blobs? According to Deepak, BOARD_USES_QCNE is only defined when building QCOM proprietary from source",
+      "revId": "5d7a32d1e0eab1e29a827887e39c43813d525b4c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
