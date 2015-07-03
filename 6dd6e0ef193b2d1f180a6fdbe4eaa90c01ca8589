@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7ffa3b31_440d028f",
+        "filename": "msm8939.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 75,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-07-03T00:49:29Z",
+      "side": 1,
+      "message": "Maybe you could make a macro that wraps this up without needing to expose board_config_makefile?",
+      "revId": "6dd6e0ef193b2d1f180a6fdbe4eaa90c01ca8589",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
