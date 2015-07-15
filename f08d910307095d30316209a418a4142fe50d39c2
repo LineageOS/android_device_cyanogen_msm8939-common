@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff0f0b1f_4ff2ad08",
+        "filename": "BoardConfigCommon.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 6334
+      },
+      "writtenOn": "2015-07-15T05:42:52Z",
+      "side": 0,
+      "message": "Once http://review.cyanogenmod.org/#/c/103085/ is merged this will be opt-in automatically based on the 2nd CPU variant",
+      "revId": "f08d910307095d30316209a418a4142fe50d39c2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
