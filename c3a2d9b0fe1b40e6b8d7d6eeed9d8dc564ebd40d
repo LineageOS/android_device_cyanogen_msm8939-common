@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f1d235d_2f52cb68",
+        "filename": "system.prop",
+        "patchSetId": 1
+      },
+      "lineNbr": 75,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-09-01T22:08:59Z",
+      "side": 1,
+      "message": "Would prefer these were organized like the rest of the file",
+      "revId": "c3a2d9b0fe1b40e6b8d7d6eeed9d8dc564ebd40d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
