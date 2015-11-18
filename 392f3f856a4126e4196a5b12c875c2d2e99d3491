@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "ff5d4b2f_e43ab632",
+        "filename": "rootdir/etc/init.qcom.rc",
+        "patchSetId": 4
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-11-18T07:27:12Z",
+      "side": 1,
+      "message": "Derp, yeah, I\u0027ll separate this. The camera HAL creates this if you don\u0027t, and it appears in the QC policy but there\u0027s no rule for allowing creation, so I assume the init scripts are supposed to create this.",
+      "parentUuid": "ff5d4b2f_642fe6f6",
+      "range": {
+        "startLine": 56,
+        "startChar": 0,
+        "endLine": 56,
+        "endChar": 42
+      },
+      "revId": "392f3f856a4126e4196a5b12c875c2d2e99d3491",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "ff5d4b2f_4434e24a",
         "filename": "sepolicy/file_contexts",
         "patchSetId": 4
@@ -36,6 +60,30 @@
       "writtenOn": "2015-11-18T07:14:07Z",
       "side": 1,
       "message": "I thought it was in system/vendor/bin now?",
+      "range": {
+        "startLine": 8,
+        "startChar": 0,
+        "endLine": 8,
+        "endChar": 72
+      },
+      "revId": "392f3f856a4126e4196a5b12c875c2d2e99d3491",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff5d4b2f_c447b2bc",
+        "filename": "sepolicy/file_contexts",
+        "patchSetId": 4
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-11-18T07:27:12Z",
+      "side": 1,
+      "message": "Huh, nope, not in our 8939 perf repo. I guess we never updated that.",
+      "parentUuid": "ff5d4b2f_4434e24a",
       "range": {
         "startLine": 8,
         "startChar": 0,
