@@ -93,6 +93,30 @@
       "revId": "392f3f856a4126e4196a5b12c875c2d2e99d3491",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff5d4b2f_046caa34",
+        "filename": "sepolicy/file_contexts",
+        "patchSetId": 4
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-11-18T07:44:21Z",
+      "side": 1,
+      "message": "I\u0027ll push up patches for that in a separate commit.",
+      "parentUuid": "ff5d4b2f_c447b2bc",
+      "range": {
+        "startLine": 8,
+        "startChar": 0,
+        "endLine": 8,
+        "endChar": 72
+      },
+      "revId": "392f3f856a4126e4196a5b12c875c2d2e99d3491",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
