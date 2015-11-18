@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff5d4b2f_c4ab3273",
+        "filename": "sepolicy/thermal-engine.te",
+        "patchSetId": 3
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 10094
+      },
+      "writtenOn": "2015-11-18T06:38:29Z",
+      "side": 1,
+      "message": "Shouldn\u0027t need these anymore.",
+      "revId": "1f287e0d5d9cf83b8156f58ec473e349eb254910",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
