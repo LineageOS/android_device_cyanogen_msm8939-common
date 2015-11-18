@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff5d4b2f_642fe6f6",
+        "filename": "rootdir/etc/init.qcom.rc",
+        "patchSetId": 4
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 10094
+      },
+      "writtenOn": "2015-11-18T07:14:07Z",
+      "side": 1,
+      "message": "This doesn\u0027t look like it belongs in this commit",
+      "range": {
+        "startLine": 56,
+        "startChar": 0,
+        "endLine": 56,
+        "endChar": 42
+      },
+      "revId": "392f3f856a4126e4196a5b12c875c2d2e99d3491",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff5d4b2f_4434e24a",
+        "filename": "sepolicy/file_contexts",
+        "patchSetId": 4
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 10094
+      },
+      "writtenOn": "2015-11-18T07:14:07Z",
+      "side": 1,
+      "message": "I thought it was in system/vendor/bin now?",
+      "range": {
+        "startLine": 8,
+        "startChar": 0,
+        "endLine": 8,
+        "endChar": 72
+      },
+      "revId": "392f3f856a4126e4196a5b12c875c2d2e99d3491",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
