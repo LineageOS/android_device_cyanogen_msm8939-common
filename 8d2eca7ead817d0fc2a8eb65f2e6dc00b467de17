@@ -34,6 +34,24 @@
       "revId": "8d2eca7ead817d0fc2a8eb65f2e6dc00b467de17",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1fcbff3d_3e6c6807",
+        "filename": "msm8939.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 70,
+      "author": {
+        "id": 13513
+      },
+      "writtenOn": "2016-01-15T08:10:21Z",
+      "side": 0,
+      "message": "ok, cool. I just wanted to make sure we did not miss something. I saw this in ./qcom/common/base.mk:CONNECTIVITY +\u003d services-ext\nI will look through the repo forest, I remember seeing it someplace once.",
+      "parentUuid": "1fcbff3d_7e62f018",
+      "revId": "8d2eca7ead817d0fc2a8eb65f2e6dc00b467de17",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
