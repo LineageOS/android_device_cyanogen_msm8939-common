@@ -16,6 +16,24 @@
       "revId": "8d2eca7ead817d0fc2a8eb65f2e6dc00b467de17",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1fcbff3d_7e62f018",
+        "filename": "msm8939.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 70,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2016-01-15T08:00:23Z",
+      "side": 0,
+      "message": "I couldn\u0027t even find a reference to services-ext. Where is that package defined?",
+      "parentUuid": "1fcbff3d_1eae4c2e",
+      "revId": "8d2eca7ead817d0fc2a8eb65f2e6dc00b467de17",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
