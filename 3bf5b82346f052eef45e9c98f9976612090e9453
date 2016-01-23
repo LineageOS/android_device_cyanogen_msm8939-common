@@ -16,6 +16,24 @@
       "revId": "3bf5b82346f052eef45e9c98f9976612090e9453",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1fcbff3d_698ea579",
+        "filename": "system.prop",
+        "patchSetId": 1
+      },
+      "lineNbr": 76,
+      "author": {
+        "id": 7880
+      },
+      "writtenOn": "2016-01-23T15:10:59Z",
+      "side": 1,
+      "message": "oops, didn\u0027t see that",
+      "parentUuid": "1fcbff3d_693225f4",
+      "revId": "3bf5b82346f052eef45e9c98f9976612090e9453",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
