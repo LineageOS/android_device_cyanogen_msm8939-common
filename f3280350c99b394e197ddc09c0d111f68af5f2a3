@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5faad753_f9c11130",
+        "filename": "msm8939.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2016-04-22T14:43:38Z",
+      "side": 1,
+      "message": "Didn\u0027t see this copied in CAF.",
+      "revId": "f3280350c99b394e197ddc09c0d111f68af5f2a3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
