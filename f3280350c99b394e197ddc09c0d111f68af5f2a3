@@ -16,6 +16,24 @@
       "revId": "f3280350c99b394e197ddc09c0d111f68af5f2a3",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5faad753_7939a13f",
+        "filename": "msm8939.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 7880
+      },
+      "writtenOn": "2016-04-22T15:02:38Z",
+      "side": 1,
+      "message": "According to this thread, \u0027the entire Adreno 400 line is capable of OpenGL ES 3.1 + AEP support\u0027.\n\nhttps://developer.qualcomm.com/forum/qdn-forums/maximize-hardware/mobile-gaming-graphics-adreno/28252\n\n\n\nHowever, so far, QCOM has only fully advertised AEP support for the 8996. Weird. \n\nhttps://us.codeaurora.org/cgit/quic/la/platform/vendor/qcom/thulium/commit/msm8996.mk?h\u003dLA.HB.1.3.1\u0026id\u003d588565d55ce25a2bca573290115256d51a51eb2a\n\nhttps://www.qualcomm.com/products/snapdragon/gpu-specifications",
+      "parentUuid": "5faad753_f9c11130",
+      "revId": "f3280350c99b394e197ddc09c0d111f68af5f2a3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
