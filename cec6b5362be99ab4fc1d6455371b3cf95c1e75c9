@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5faad753_41705f73",
+        "filename": "rootdir/etc/init.qcom.usb.rc",
+        "patchSetId": 5
+      },
+      "lineNbr": 1009,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2016-04-27T18:27:53Z",
+      "side": 1,
+      "message": "Do we want to allow a custom product ID here?",
+      "range": {
+        "startLine": 1009,
+        "startChar": 53,
+        "endLine": 1009,
+        "endChar": 57
+      },
+      "revId": "cec6b5362be99ab4fc1d6455371b3cf95c1e75c9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
