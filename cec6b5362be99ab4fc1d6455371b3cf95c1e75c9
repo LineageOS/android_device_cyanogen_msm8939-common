@@ -64,6 +64,24 @@
       "revId": "cec6b5362be99ab4fc1d6455371b3cf95c1e75c9",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5faad753_8f0afd23",
+        "filename": "rootdir/etc/init.qcom.usb.rc",
+        "patchSetId": 5
+      },
+      "lineNbr": 1009,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2016-04-28T16:04:36Z",
+      "side": 1,
+      "message": "Let\u0027s make this configurable for now then?",
+      "parentUuid": "5faad753_cca3234f",
+      "revId": "cec6b5362be99ab4fc1d6455371b3cf95c1e75c9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
