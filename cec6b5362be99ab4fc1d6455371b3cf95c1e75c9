@@ -46,6 +46,24 @@
       "revId": "cec6b5362be99ab4fc1d6455371b3cf95c1e75c9",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5faad753_cca3234f",
+        "filename": "rootdir/etc/init.qcom.usb.rc",
+        "patchSetId": 5
+      },
+      "lineNbr": 1009,
+      "author": {
+        "id": 7880
+      },
+      "writtenOn": "2016-04-28T00:48:31Z",
+      "side": 1,
+      "message": "I\u0027ve no idea :(",
+      "parentUuid": "5faad753_a104b3c7",
+      "revId": "cec6b5362be99ab4fc1d6455371b3cf95c1e75c9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
